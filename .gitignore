@@ -26,17 +26,6 @@ Thumbs.db
 
 
 
-# composer vendor dir
-
-/vendor
-
-/tests
-
-# composer itself is not needed
-
-composer.phar
-
-
 
 # Mac DS_Store Files
 
